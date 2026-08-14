@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐉 About Me:
 
 **Associate Software Engineer @ Mphasis | Data Engineering | AI/ML | Backend Development**<br><br>I'm a Computer Science and Business Systems engineer who builds data-driven, AI-powered applications and production-ready data platforms. I design and ship end-to-end systems spanning data engineering, ML, backend services, and cloud infrastructure — turning experiments into usable, maintainable products.<br><br>
 
